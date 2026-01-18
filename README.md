@@ -1,0 +1,1 @@
+this is the plattformio code I used on an ardunio r4 wifi to emulate a ps/2 keyboard and send a specific sequence of key to convinve an led sign running an 8051 mcu to display what I want  via serial terminal.
